@@ -25,7 +25,9 @@
                             <small>Author</small>
                         </h1>
                         
-                        <div class="col-x6">
+                       
+                        
+                       <div class="col-xs-6">
                            
                             <form action="" method="post">
                                <div class="form-group">
@@ -38,20 +40,43 @@
                                 
                                 </div>
                             </form>     
-                            
-                        </div>
-                       
+
+                        </div> <!-- Add Category Form -->
+                        
+                        <div class="col-xs-6">
+                         
+                         <table class="table table-bordered table-hover">
+                             <thread>
+                                 <tr>
+                                     <th>ID</th>
+                                     <th>Category Title</th>
+                                 </tr>
+                             </thread>
+                             <tbody>
+                                 <tr>
+                                     <td>A1</td>
+                                     <td>D2</td>
+                                 </tr>
+                             </tbody>
+                             
+                         </table>
                         
                         
-                        
+                        </div> 
+
                         
                         
                     </div>
+                    
+                    
                 </div>
                 <!-- /.row -->
+                
+                
 
             </div>
             <!-- /.container-fluid -->
+            
 
         </div>
         <!-- /#page-wrapper -->
